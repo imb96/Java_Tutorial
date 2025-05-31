@@ -7,3 +7,4 @@ public class Var1 {
         System.out.println(10);
     }
 }
+
