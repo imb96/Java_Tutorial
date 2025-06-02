@@ -7,7 +7,7 @@ public class MyMathTest {
         long result1 = mm.add(5L, 3L);
         long result2 = mm.subtract(5L, 3L);
         long result3 = mm.multiply(5L, 3L);
-        double result4 = mm.divide(5.0, 3.0);
+        double result4 = mm.divide(5L, 3L);
 
         System.out.println("5 + 3 = " + result1);
         System.out.println("5 - 3 = " + result2);
